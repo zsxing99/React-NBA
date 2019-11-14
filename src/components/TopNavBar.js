@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "./assets/images/nba-logoman-word-white.svg";
+import logo from "../assets/images/nba-logoman-word-white.svg";
 
 export function TopNavBar(props) {
     return (
