@@ -1,1 +1,4 @@
 
+A simple React app to visualize NBA player shot statistic <br/>
+
+Deployed on AWS S3: https://nba-shot-stats.s3-us-west-1.amazonaws.com/index.html
